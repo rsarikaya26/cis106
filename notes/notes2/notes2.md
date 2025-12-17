@@ -1,4 +1,4 @@
-# Lecture 2 Introduction to Linux Notes
+# Notes 2 Introduction to Linux Notes
 
 ## 1. What is an Operating System?
    - An operating system (OS) is essential system software that manages a computer's hardware and software resources, serving as a bridge between the user and the machine's physical components.
